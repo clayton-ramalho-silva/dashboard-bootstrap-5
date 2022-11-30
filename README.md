@@ -1,0 +1,1 @@
+Dashboard multi-uso feita com Bootstrap 5, DataTables e Chart.js.
